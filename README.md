@@ -54,7 +54,9 @@ Start the app
   node app.js
 ```
 
-visit  ```bash http://localhost:5000/ ```
+visit  ```bash 
+http://localhost:5000/
+```
 
 
 ## Authors
